@@ -1,7 +1,7 @@
 <h1 align="center">MGNTS CRYPTO NFT CLUB</h1>
 <h2 align="center">Welcome!!!</h2>
 
-## [KNOWLEDGE IS POWER!!!](https://www.reddit.com/r/CryptoCurrency/) 
+<h2 align="center">[KNOWLEDGE IS POWER!!!](https://www.reddit.com/r/CryptoCurrency/)</h2>
 
 ## PLEASE EXPLORE!!
 
