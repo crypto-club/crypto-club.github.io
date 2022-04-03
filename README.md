@@ -3,6 +3,13 @@
 
 [KNOWLEDGE IS POWER!!!](https://www.reddit.com/r/CryptoCurrency/) 
 
+<img
+  align="right"
+  width="100"
+  height="100"
+  src="https://github.com/crypto-club/crypto-club.github.io/blob/main/bitcoin-crypto.gif?raw=true"
+>
+
 ## PLEASE EXPLORE!!
 
 [CLICK THE LINK FOR THE NFT SITE](https://crypto-club.github.io/nft/) 
