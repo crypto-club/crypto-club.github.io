@@ -65,9 +65,8 @@ Below is information on Crypto!
 ### Contact Support
 -  **Having trouble? Need a consulation? [Contact Support](https://crypto-club.github.io/contact-us/) _and we’ll help you sort it out._**
 
-```markdown
+
 ![alt text](https://github.com/crypto-club/crypto-club.github.io/blob/main/dump-btc.gif?raw=true)
 ![alt text](https://github.com/crypto-club/crypto-club.github.io/blob/main/rollercoaster-bitcoin.gif.png?raw=true)
 - Crypto is Like a Roller Coaster Ride
 - Buy Low, Sell High
-```
