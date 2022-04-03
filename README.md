@@ -49,7 +49,7 @@ Below is information on Crypto!
    Many questions you may have are usually answered in the Reddit Forum
 
 # What if I can't find my answer on Reddit?
-Feel free to [contact support](https://crypto-club.github.io/contact-us/)
+Feel free to contact us!!!
 
 ```
 ### NFT?
