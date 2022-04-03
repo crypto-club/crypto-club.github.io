@@ -38,10 +38,13 @@ Currently the biggest Crypto Currency's to keep watch on are:
      *The stock market opens at 8am and closes at 6pm*
 
 # How can I get into Crypto its confusing??
-- First create a coinbase account. Then add your banking information. Now your ready to buy crypto. Yes! its that easy
+- First create a coinbase account. Then add your banking information. 
+  Now your ready to buy crypto. Yes! its that easy
 
 # Where can I go if I have questions?
-- 'KNOWLEDGE IS POWER!!!' link is the first link on this page, It redirects you to the reddit crypto forum. Many questions you may have are answered here
+- 'KNOWLEDGE IS POWER!!!' link is the first link on this page,
+   It redirects you to the reddit crypto forum. 
+   Many questions you may have are usually answered in the Reddit Forum
 
 # What if I can't find my answer on Reddit?
 Feel free to [contact support](https://crypto-club.github.io/contact-us/)
