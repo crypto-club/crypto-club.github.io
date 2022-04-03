@@ -37,7 +37,7 @@ Currently the biggest Crypto Currency's to keep watch on are:
   But instead of companies, you invest in crypto 
          'Block Chain Algorithms' 
         The Crypto Market runs 24/7!
-   *The stock market opens at 8am and closes at 6pm*
+   * The stock market opens at 8am and closes at 6pm 
 
 # How can I get into Crypto its confusing??
 - First create a coinbase account. Then add your banking information. 
