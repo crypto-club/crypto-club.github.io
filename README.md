@@ -1,14 +1,9 @@
 <h1 align="center">MGNTS CRYPTO NFT CLUB</h1>
 <h2 align="center">Welcome!!!</h2>
 
-[KNOWLEDGE IS POWER!!!](https://www.reddit.com/r/CryptoCurrency/) 
+![alt text](https://github.com/crypto-club/crypto-club.github.io/blob/main/bitcoin-crypto.gif?raw=true)
 
-<img
-  align="right"
-  width="100"
-  height="100"
-  src="https://github.com/crypto-club/crypto-club.github.io/blob/main/bitcoin-crypto.gif?raw=true"
->
+[KNOWLEDGE IS POWER!!!](https://www.reddit.com/r/CryptoCurrency/) 
 
 ## PLEASE EXPLORE!!
 
