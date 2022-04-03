@@ -1,7 +1,10 @@
 <h1 align="center">MGNTS CRYPTO NFT CLUB</h1>
 <h2 align="center">Welcome!!!</h2>
 
+<h1 align="center>
 ![alt text](https://github.com/crypto-club/crypto-club.github.io/blob/main/bitcoin-crypto.gif?raw=true)
+
+</h1>
 
 [KNOWLEDGE IS POWER!!!](https://www.reddit.com/r/CryptoCurrency/) 
 
