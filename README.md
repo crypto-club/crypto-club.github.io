@@ -18,7 +18,7 @@ Below is information on Crypto!
 ```markdown
 # CRYPTO
 
-Currently the biggest Crypto Currency's to keep watch on are:
+# Currently the biggest Crypto Currency's to keep watch on are:
 
 # BTC
 # ETH
