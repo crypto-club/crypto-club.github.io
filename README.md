@@ -55,6 +55,6 @@ Feel free to [contact support](https://crypto-club.github.io/contact-us/)
 ### NFT?
 Need more information on NFTs? Check this link out [NFT](https://crypto-club.github.io/nft/)
 
-### Support or Contact
-Having trouble with Pages? [contact support](https://crypto-club.github.io/contact-us/) and we’ll help you sort it out.
+### Contact Support
+Having trouble? [contact support](https://crypto-club.github.io/contact-us/) and we’ll help you sort it out.
 
