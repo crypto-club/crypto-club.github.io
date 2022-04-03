@@ -1,7 +1,7 @@
 <h1 align="center">MGNTS CRYPTO NFT CLUB</h1>
 <h2 align="center">Welcome!!!</h2>
 
-## CREATE KNOWLEDGE HERE!!! [KNOWLEDGE IS POWER!!!](https://www.reddit.com/r/CryptoCurrency/) 
+## [KNOWLEDGE IS POWER!!!](https://www.reddit.com/r/CryptoCurrency/) 
 
 ## PLEASE EXPLORE!!
 
@@ -18,19 +18,37 @@ Below is information on Crypto!
 ```markdown
 **CRYPTO**
 
-Currently the bigest Crypto Currency's to keep watch on are:
+Currently the biggest Crypto Currency's to keep watch on are:
 
 # BTC
 # ETH
-# ETH
+# XRP
+# LTC
 
+- **What about Dogecoin?? And all the other Celeberity Crypto Currencies!?**
+- **No, we do not recomend this coins. These are very risky coins and are huge gambles**
+
+- **Can anyone create a crypto currency?**
+- **Yes, anyone can that can create a blockchain algorithm**
+
+- **Is crypto currency like the stock market**
+- **Yes/No you do invest your money into companies but instead in crypto its block chanin algorithms** **The Crypto Market runs 24/7** **The stock market opens at 8am and closes at 6pm**
+
+- **How can I get into Crypto its confusing??**
+- **First create a coinbase account. Then add your banking information** **Now your ready to buy crypto. Yes! its that easy**
+
+- **Where can I go if I have questions?**
+-  **'KNOWLEDGE IS POWER!!!' link is the first link on this page, It redirects you to the reddit crypto forum. Many questions you may have are answered here**
+
+- **What if I can't find my answer on Reddit?**
+- **Feel free to [contact support](https://crypto-club.github.io/contact-us/)**
 
 ```
+### NFT?
+
+Need more information on NFTs? Check this link out [NFT](https://crypto-club.github.io/nft/)
 
 ### Support or Contact
 
 Having trouble with Pages? [contact support](https://crypto-club.github.io/contact-us/) and we’ll help you sort it out.
 
-### NFT?
-
-Need more information on NFTs? Check this link out [NFT](https://crypto-club.github.io/nft/)
