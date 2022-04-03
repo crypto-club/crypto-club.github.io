@@ -42,7 +42,7 @@ Below is information on Crypto!
 
 # How can I get into Crypto its confusing??
 - First create a coinbase account. Then add your banking information. 
-  Now your ready to buy crypto. Yes! its that easy
+  * Now your ready to buy crypto. Yes! Its that easy!
 
 # Where can I go if I have questions?
 - 'KNOWLEDGE IS POWER!!!' link is the first link on this page,
