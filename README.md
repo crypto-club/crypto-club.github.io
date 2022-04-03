@@ -26,8 +26,9 @@ Below is information on Crypto!
 # LTC
 
 # What about Dogecoin?? And all the other Celeberity Crypto Currencies!?
-- No, we do not recomend this coins. 
+- No, we do not recomend these coins. 
     - These are very risky coins and are huge gambles
+    - High Risk, High Reward! Is it worth it? 
 
 # Can anyone create a crypto currency?
 - Yes, anyone can that can create a blockchain algorithm
@@ -37,7 +38,7 @@ Below is information on Crypto!
   But instead of companies, you invest in crypto 
          'Block Chain Algorithms' 
         The Crypto Market runs 24/7!
-   * The stock market opens at 8am and closes at 6pm 
+   * The stock market opens at 9:30am and closes at 4pm EST.
 
 # How can I get into Crypto its confusing??
 - First create a coinbase account. Then add your banking information. 
@@ -49,7 +50,7 @@ Below is information on Crypto!
    Many questions you may have are usually answered in the Reddit Forum
 
 # What if I can't find my answer on Reddit?
-Feel free to contact us!!!
+Feel free to contact us below!!!
 
 ```
 ### NFT?
