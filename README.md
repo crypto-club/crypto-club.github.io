@@ -67,6 +67,6 @@ Below is information on Crypto!
 
 
 ![alt text](https://github.com/crypto-club/crypto-club.github.io/blob/main/dump-btc.gif?raw=true)
-![alt text](https://github.com/crypto-club/crypto-club.github.io/blob/main/rollercoaster-bitcoin.gif.png?raw=true)
+![alt text](https://github.com/crypto-club/crypto-club.github.io/blob/main/rollercoaster-bitcoin.gif?raw=true)
 - Crypto is Like a Roller Coaster Ride
 - Buy Low, Sell High
