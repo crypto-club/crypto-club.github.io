@@ -5,9 +5,10 @@
 ![alt text](https://github.com/crypto-club/crypto-club.github.io/blob/main/bitcoin-crypto.gif?raw=true)
 
 </h1>
-
+<h1 align="center>
 [KNOWLEDGE IS POWER!!!](https://www.reddit.com/r/CryptoCurrency/) 
 
+</h1>
 ## PLEASE EXPLORE!!
 
 [CLICK THE LINK FOR THE NFT SITE](https://crypto-club.github.io/nft/) 
