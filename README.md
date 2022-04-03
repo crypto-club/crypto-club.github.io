@@ -33,9 +33,11 @@ Currently the biggest Crypto Currency's to keep watch on are:
 - Yes, anyone can that can create a blockchain algorithm
 
 # Is crypto currency like the stock market
-- Yes/No you do invest your money into companies but instead in crypto 
-  its block chanin algorithms The Crypto Market runs 24/7!
-     *The stock market opens at 8am and closes at 6pm*
+- Yes/No, You do invest your money.
+  But instead of companies, you invest in crypto 
+  'block chanin algorithms' 
+   The Crypto Market runs 24/7!
+   *The stock market opens at 8am and closes at 6pm*
 
 # How can I get into Crypto its confusing??
 - First create a coinbase account. Then add your banking information. 
