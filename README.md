@@ -55,8 +55,8 @@ Below is information on Crypto!
 
 ```
 ### NFT?
-Need more information on NFTs? Check this link out [NFT](https://crypto-club.github.io/nft/)
+- Need more information on NFTs? Check this link out [NFT](https://crypto-club.github.io/nft/)
 
 ### Contact Support
-Having trouble? Need a consulation? [contact support](https://crypto-club.github.io/contact-us/) and we’ll help you sort it out.
+- Having trouble? Need a consulation? [contact support](https://crypto-club.github.io/contact-us/) and we’ll help you sort it out.
 
