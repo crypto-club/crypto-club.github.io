@@ -16,7 +16,7 @@ Below is information on Crypto!
 ![alt text](https://github.com/crypto-club/crypto-club.github.io/blob/main/image1.png?raw=true)
 
 ```markdown
-<h1 align="center">CRYPTO</h1>
+# CRYPTO
 
 Currently the biggest Crypto Currency's to keep watch on are:
 
