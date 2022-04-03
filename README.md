@@ -18,7 +18,7 @@ Below is information on Crypto!
 ```markdown
 # CRYPTO
 
-# Currently the biggest Crypto Currency's to keep watch out for:
+# Currently the biggest Crypto Currency's to keep watch out for are:
 
 # BTC
 # ETH
@@ -50,12 +50,13 @@ Below is information on Crypto!
    Many questions you may have are usually answered in the Reddit Forum
 
 # What if I can't find my answer on Reddit?
-Feel free to contact us below!!!
+- Feel free to contact us below!!!
+- We provide Crypto Consulting at a very low Cost to you!!
 
 ```
 ### NFT?
 Need more information on NFTs? Check this link out [NFT](https://crypto-club.github.io/nft/)
 
 ### Contact Support
-Having trouble? [contact support](https://crypto-club.github.io/contact-us/) and we’ll help you sort it out.
+Having trouble? Need a consulation? [contact support](https://crypto-club.github.io/contact-us/) and we’ll help you sort it out.
 
